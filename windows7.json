@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "product": "retushpro",
+  "channel": "windows7",
+  "version": "1.9.6-win7-rc28",
+  "runtime": "win7-x64-py38-qt5.15.2-torch1.13.1-cpu-rawpy0.19.1-rc1",
+  "url": "https://github.com/babkanomer13-dotcom/RetushPro-Updates/releases/download/v1.9.6-win7-rc28/RetushPro-1.9.6-win7-rc28-Code.zip",
+  "sha256": "bb71ebe19e5cd301ab4ed79aba50a468c430c6e5b0db8a9cd5b4a2e7a6a65cfa",
+  "size": 965522,
+  "notes": "Исправления редактора и возврат обновлений через сохранённый токен GitHub. После перезапуска переходник автоматически загрузит полный пакет из закрытого репозитория."
+}
